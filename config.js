@@ -5,7 +5,7 @@
 //    Authorised JavaScript origin: https://YOUR-USERNAME.github.io (+ http://localhost:8000 for testing)
 
 window.SWC_CONFIG = {
-  APPS_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbwb4nFbk3yaKCIn9nEUOFCy-XkwGLCZ4asYySflhr2NGo85In-Zpjv2uxrdHxpqyDI/exec", // e.g. "https://script.google.com/macros/s/AKfyc.../exec"
+  APPS_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbzPOrvjADey4U0RwQZhHVrIzERbdYkwqmJeQZ_vDkQkPw4H5bM0PjFRs14b4znA7Sbu/exec", // e.g. "https://script.google.com/macros/s/AKfyc.../exec"
   GOOGLE_CLIENT_ID: "71909220285-647djv3jpier18p19htkd5ia6obp192n.apps.googleusercontent.com", // e.g. "123456789-abc.apps.googleusercontent.com"
   TOTAL_SEATS: 32,
   ALLOWED_DOMAIN: "@iisertvm.ac.in",
